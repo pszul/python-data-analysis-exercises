@@ -33,8 +33,7 @@ Focus: tabular data, cleaning, transformation, aggregation, time series.
 |05_merging_joining.ipynb|Joining multiple tables (customers, orders, etc.), combining datasets with merge and concat.
 |06_reshaping_pivot.ipynb|Pivot tables, stack/unstack, melt for transforming wide/long data.
 |07_time_series.ipynb|Working with dates, datetime index, filtering by date ranges, resampling daily/weekly/monthly.
-|08_pandas_101_selected.ipynb|A set of more advanced exercises inspired by popular “pandas 101” lists:
-duplicates, cumulative sums, percentage shares, custom functions in groupby.apply, etc.
+|08_pandas_101_selected.ipynb|A set of more advanced exercises inspired by popular “pandas 101” lists: duplicates, cumulative sums, percentage shares, custom functions in groupby.apply, etc.
 
 
 Mini-projects
