@@ -49,7 +49,7 @@ python-data-analysis-exercises/
 │   ├─ 02_indexing_slicing.ipynb
 │   ├─ 03_reshaping_broadcasting.ipynb
 │   ├─ 04_statistics.ipynb
-│   └─ 05_numpy_100_selected.ipynb      (planned)
+│   └─ 05_numpy_100_selected.ipynb      (in progress)
 │
 ├─ pandas/
 │   ├─ 01_series_dataframe_basics.ipynb (planned)
